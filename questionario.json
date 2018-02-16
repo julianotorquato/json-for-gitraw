@@ -1,0 +1,131 @@
+{
+    "cdEmpresa": 14253,
+    "cdQuestionario": 2,
+    "dtCriacao": "2018-02-16T00:17:10.702Z",
+    "fgAtivo": true,
+    "itensQuestionarios": [
+      {
+        "cdGrupo": 1,
+        "dsGrupo": "Sua Saúde",
+        "fgAtivo": true,
+        "id": 1,
+        "nuOrdem": 1,
+        "tipoAvaliacao": {
+          "cdTipoAvaliacao": 100138,
+          "id": 1,
+          "nmTipoAvaliacao": "[GAMA] Portal - Sua saúde",
+          "perguntas": [
+            {
+              "cdPergunta": 104597,
+              "dsPergunta": "",
+              "dtCriacao": "2018-02-16T00:17:10.702Z",
+              "fgAtivo": true,
+              "fgObrigatorio": true,
+              "itensRespostas": [
+                {
+                  "cdItemResposta": 114112,
+                  "cdPerguntaDesvio": 104558,
+                  "condicionais": [],
+                  "dsItemResposta": ".",
+                  "dtCriacao": "2018-02-16T00:17:10.702Z",
+                  "tipoAvaliacaoDesvio": {},
+                  "vlMaximo": "20",
+                  "vlMinimo": "500"
+                }
+              ],
+              "nmTitulo": "Qual o seu peso (kg) ?",
+              "nuOrdem": 1,
+              "tipoPergunta": {
+                "cdTipoPergunta": 20,
+                "id": 20,
+                "nmTipoPergunta": "Kilos"
+              }
+            },
+            {
+              "cdPergunta": 104558,
+              "dsPergunta": "",
+              "dtCriacao": "2018-02-16T00:17:10.702Z",
+              "fgAtivo": true,
+              "fgObrigatorio": true,
+              "itensRespostas": [
+                {
+                  "cdItemResposta": 113955,
+                  "cdPerguntaDesvio": 104559,
+                  "condicionais": [],
+                  "dsItemResposta": ".",
+                  "dtCriacao": "2018-02-16T00:17:10.702Z",
+                  "tipoAvaliacaoDesvio": {},
+                  "vlMaximo": "50",
+                  "vlMinimo": "230"
+                }
+              ],
+              "nmTitulo": "Qual a sua altura (cm)?",
+              "nuOrdem": 2,
+              "tipoPergunta": {
+                "cdTipoPergunta": 19,
+                "id": 19,
+                "nmTipoPergunta": "Centímetros"
+              }
+            },
+            {
+              "cdPergunta": 104559,
+              "dsPergunta": "É o primeiro número da aferição da pressão arterial. Costuma-se chamar de 12 por 8, mas a forma correta é 120 por 80.",
+              "dtCriacao": "2018-02-16T00:17:10.702Z",
+              "fgAtivo": true,
+              "fgObrigatorio": true,
+              "itensRespostas": [
+                {
+                  "cdItemResposta": 113956,
+                  "cdPerguntaDesvio": 104560,
+                  "condicionais": [],
+                  "dsItemResposta": ".",
+                  "dtCriacao": "2018-02-16T00:17:10.702Z",
+                  "tipoAvaliacaoDesvio": {},
+                  "vlMaximo": "50",
+                  "vlMinimo": "250"
+                }
+              ],
+              "nmTitulo": "Pressão arterial máxima (mmhg)",
+              "nuOrdem": 2,
+              "tipoPergunta": {
+                "cdTipoPergunta": 5,
+                "id": 5,
+                "nmTipoPergunta": "Number"
+              }
+            },
+            {
+              "cdPergunta": 104560,
+              "dsPergunta": "É o segundo número da aferição da pressão arterial. A pressão arterial costuma-se chamar de 12 por 8, mas a forma correta é 120 por 80.",
+              "dtCriacao": "2018-02-16T00:17:10.702Z",
+              "fgAtivo": true,
+              "fgObrigatorio": true,
+              "itensRespostas": [
+                {
+                  "cdItemResposta": 113957,
+                  "cdPerguntaDesvio": 104561,
+                  "condicionais": [],
+                  "dsItemResposta": ".",
+                  "dtCriacao": "2018-02-16T00:17:10.702Z",
+                  "tipoAvaliacaoDesvio": {},
+                  "vlMaximo": "40",
+                  "vlMinimo": "160"
+                }
+              ],
+              "nmTitulo": "Pressão arterial mínima (mmhg)",
+              "nuOrdem": 4,
+              "tipoPergunta": {
+                "cdTipoPergunta": 5,
+                "id": 5,
+                "nmTipoPergunta": "Number"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "tipoQuestionario": {
+      "cdTipoQuestionario": 2,
+      "dsTipoQuestionario": "Questionário de Saúde",
+      "id": 1
+    }
+  }
