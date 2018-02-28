@@ -1,40 +1,1001 @@
 
   {
-  "id": 5101,
+  "id": 9551,
   "cdQuestionario": 2,
   "cdEmpresa": 14253,
   "fgAtivo": true,
-  "dtCriacao": "2018-02-28T15:12:21.234-03:00",
+  "dtCriacao": "2018-02-28T17:30:37.44-03:00",
   "itensQuestionarios": [
     {
-      "id": 5051,
+      "id": 9504,
+      "cdGrupo": 3,
+      "dsGrupo": "Hábitos",
+      "nuOrdem": 1,
+      "fgAtivo": true,
+      "tipoAvaliacao": {
+        "id": 9454,
+        "cdTipoAvaliacao": 100142,
+        "nmTipoAvaliacao": "[GAMA] Portal - Alimentação",
+        "perguntas": [
+          {
+            "id": 9424,
+            "cdPergunta": 104593,
+            "nmTitulo": "Você faz pelo menos 3 refeições/dia?",
+            "dsPergunta": "",
+            "fgObrigatorio": true,
+            "nuOrdem": 26,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.602-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104594,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9651,
+                "cdItemResposta": 114091,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.604-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104594,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9652,
+                "cdItemResposta": 114092,
+                "dsItemResposta": "Não",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.604-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9425,
+            "cdPergunta": 104594,
+            "nmTitulo": "Você tem o hábito de acrescentar sal quando a comida está no prato?",
+            "dsPergunta": "",
+            "fgObrigatorio": true,
+            "nuOrdem": 27,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.605-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104595,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9653,
+                "cdItemResposta": 114093,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.607-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104595,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9654,
+                "cdItemResposta": 114094,
+                "dsItemResposta": "Não",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.607-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9426,
+            "cdPergunta": 104595,
+            "nmTitulo": "Você bebe pelo menos 6 a 8 copos de água diariamente?",
+            "dsPergunta": "",
+            "fgObrigatorio": true,
+            "nuOrdem": 29,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.607-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104568,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9655,
+                "cdItemResposta": 114095,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.61-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104568,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9656,
+                "cdItemResposta": 114096,
+                "dsItemResposta": "Não",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.61-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104568,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9657,
+                "cdItemResposta": 114097,
+                "dsItemResposta": "Restrição médica",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.61-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9423,
+            "cdPergunta": 104592,
+            "nmTitulo": "Em média, você come ao menos 5 porções de frutas e/ou folhas verdes todos os dias?",
+            "dsPergunta": "",
+            "fgObrigatorio": true,
+            "nuOrdem": 25,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.599-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104593,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9649,
+                "cdItemResposta": 114089,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.601-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104593,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9650,
+                "cdItemResposta": 114090,
+                "dsItemResposta": "Não",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.601-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 9505,
+      "cdGrupo": 3,
+      "dsGrupo": "Hábitos",
+      "nuOrdem": 2,
+      "fgAtivo": true,
+      "tipoAvaliacao": {
+        "id": 9455,
+        "cdTipoAvaliacao": 100139,
+        "nmTipoAvaliacao": "[GAMA] Portal - Hábitos",
+        "perguntas": [
+          {
+            "id": 9427,
+            "cdPergunta": 104568,
+            "nmTitulo": "Quantas vezes por semana pratica atividade física moderada por pelo menos 30min/dia?",
+            "dsPergunta": "",
+            "fgObrigatorio": true,
+            "nuOrdem": 29,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.611-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104569,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9658,
+                "cdItemResposta": 113997,
+                "dsItemResposta": "Nenhum",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.613-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104569,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9659,
+                "cdItemResposta": 113998,
+                "dsItemResposta": "Uma vez",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.614-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104569,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9660,
+                "cdItemResposta": 113999,
+                "dsItemResposta": "Duas vezes",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.614-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104569,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9661,
+                "cdItemResposta": 114000,
+                "dsItemResposta": "Três vezes ou mais",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.614-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104569,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9662,
+                "cdItemResposta": 114001,
+                "dsItemResposta": "Não posso fazer atividade física devido à restrição médica",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.615-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9428,
+            "cdPergunta": 104569,
+            "nmTitulo": "Durante a semana (segunda a sexta-feira), seu consumo de bebidas alcoólicas corresponde a:",
+            "dsPergunta": "Uma dose equivale a: 1 taça de vinho cheia (150 ml ou 1 copo plástico de água pequeno), 1 lata de cerveja (350 ml), 1 dose de bebida destilada (1 copinho de plástico de café) ",
+            "fgObrigatorio": true,
+            "nuOrdem": 30,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.615-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104570,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9663,
+                "cdItemResposta": 114002,
+                "dsItemResposta": "Não consome",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.617-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104570,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9664,
+                "cdItemResposta": 114003,
+                "dsItemResposta": "Até 5 doses/semana",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.618-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104570,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9665,
+                "cdItemResposta": 114004,
+                "dsItemResposta": "De 6 a 14 doses/semana",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.618-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104570,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9666,
+                "cdItemResposta": 114005,
+                "dsItemResposta": "15 doses ou mais",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.618-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9429,
+            "cdPergunta": 104570,
+            "nmTitulo": "No final de semana (sábado e domingo), seu consumo de bebidas alcoólicas corresponde a:",
+            "dsPergunta": "Uma dose equivale a: 1 taça de vinho cheia (150 ml ou 1 copo plástico de água pequeno), 1 lata de cerveja (350 ml), 1 dose de bebida destilada (1 copinho de plástico de café) ",
+            "fgObrigatorio": true,
+            "nuOrdem": 31,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.619-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104571,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9667,
+                "cdItemResposta": 114006,
+                "dsItemResposta": "Não Consumo",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.621-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104571,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9668,
+                "cdItemResposta": 114007,
+                "dsItemResposta": "Até 2 doses/final de semana",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.622-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104571,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9669,
+                "cdItemResposta": 114008,
+                "dsItemResposta": "De 3 a 5 doses/final de semana",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.622-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104571,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9670,
+                "cdItemResposta": 114009,
+                "dsItemResposta": "6 ou mais/final de semana",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.622-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9430,
+            "cdPergunta": 104571,
+            "nmTitulo": "Você fuma?",
+            "dsPergunta": "(Cigarro, Narguile, Charuto, Cachimbo entre outros)",
+            "fgObrigatorio": true,
+            "nuOrdem": 32,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.622-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104572,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9671,
+                "cdItemResposta": 114010,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.624-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104572,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9672,
+                "cdItemResposta": 114011,
+                "dsItemResposta": "Nunca fumei",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.625-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104572,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9673,
+                "cdItemResposta": 114012,
+                "dsItemResposta": "Já parei de fumar",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.625-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9431,
+            "cdPergunta": 104572,
+            "nmTitulo": "Considerando o seu estilo de vida atual, você pensa em mudar nos próximos 6 meses?",
+            "dsPergunta": " Focar em Hábitos como atividade física, alimentação, lazer, entre outros.",
+            "fgObrigatorio": true,
+            "nuOrdem": 33,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.625-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9674,
+                "cdItemResposta": 114015,
+                "dsItemResposta": "Não/Talvez",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.628-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9675,
+                "cdItemResposta": 114016,
+                "dsItemResposta": "Já realizei mudanças necessárias em minha vida",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.629-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104573,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9676,
+                "cdItemResposta": 114013,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.629-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104574,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9677,
+                "cdItemResposta": 114014,
+                "dsItemResposta": "Estou tentando mudar",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.629-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9432,
+            "cdPergunta": 104573,
+            "nmTitulo": "E nos próximos 30 dias?",
+            "dsPergunta": "",
+            "fgObrigatorio": false,
+            "nuOrdem": 34,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.629-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104574,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9678,
+                "cdItemResposta": 114017,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.632-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9679,
+                "cdItemResposta": 114018,
+                "dsItemResposta": "Não/Talvez",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.633-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9433,
+            "cdPergunta": 104574,
+            "nmTitulo": "Em qual(is) âmbito(s) você quer melhorar?",
+            "dsPergunta": "",
+            "fgObrigatorio": false,
+            "nuOrdem": 35,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.633-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9680,
+                "cdItemResposta": 114019,
+                "dsItemResposta": "Aumentar a atividade física",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.635-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9681,
+                "cdItemResposta": 114020,
+                "dsItemResposta": "Perder peso",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.635-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9682,
+                "cdItemResposta": 114021,
+                "dsItemResposta": "Ter uma dieta mais saudável",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.636-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9683,
+                "cdItemResposta": 114022,
+                "dsItemResposta": "Lidar melhor com o estresse",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.636-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9684,
+                "cdItemResposta": 114023,
+                "dsItemResposta": "Reduzir o uso de bebidas alcoólicas",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.636-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104575,
+                "cdTipoAvaliacaoDesvio": 100139,
+                "id": 9685,
+                "cdItemResposta": 114024,
+                "dsItemResposta": "Outros",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.636-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 2,
+              "cdTipoPergunta": 2,
+              "nmTipoPergunta": "Checkbox"
+            }
+          },
+          {
+            "id": 9434,
+            "cdPergunta": 104575,
+            "nmTitulo": "Quais outros hábitos?",
+            "dsPergunta": "",
+            "fgObrigatorio": false,
+            "nuOrdem": 36,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.637-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": null,
+                "cdTipoAvaliacaoDesvio": null,
+                "id": 9686,
+                "cdItemResposta": 114025,
+                "dsItemResposta": ".",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.639-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 3,
+              "cdTipoPergunta": 4,
+              "nmTipoPergunta": "Textbox"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 9501,
       "cdGrupo": 1,
       "dsGrupo": "Sua Saúde",
       "nuOrdem": 1,
       "fgAtivo": true,
       "tipoAvaliacao": {
-        "id": 5001,
+        "id": 9451,
         "cdTipoAvaliacao": 100138,
         "nmTipoAvaliacao": "[GAMA] Portal - Sua saúde",
         "perguntas": [
           {
-            "id": 4951,
+            "id": 9408,
+            "cdPergunta": 104564,
+            "nmTitulo": "Qual outra condição de saúde voce possui?",
+            "dsPergunta": "",
+            "fgObrigatorio": false,
+            "nuOrdem": 8,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.526-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9374,
+                "cdItemResposta": 113980,
+                "dsItemResposta": ".",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.528-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 3,
+              "cdTipoPergunta": 4,
+              "nmTipoPergunta": "Textbox"
+            }
+          },
+          {
+            "id": 9409,
+            "cdPergunta": 104565,
+            "nmTitulo": "Seus pais possuem diagnóstico ou fazem algum tratamento de saúde?",
+            "dsPergunta": "",
+            "fgObrigatorio": true,
+            "nuOrdem": 9,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.529-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104566,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9375,
+                "cdItemResposta": 113981,
+                "dsItemResposta": "Sim",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.531-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9376,
+                "cdItemResposta": 113982,
+                "dsItemResposta": "Não",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.531-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 1,
+              "cdTipoPergunta": 1,
+              "nmTipoPergunta": "Radio"
+            }
+          },
+          {
+            "id": 9410,
+            "cdPergunta": 104566,
+            "nmTitulo": "Quais as doenças ou condições seus pais possuem?",
+            "dsPergunta": "",
+            "fgObrigatorio": false,
+            "nuOrdem": 10,
+            "fgAtivo": true,
+            "dtCriacao": "2018-02-28T17:30:37.532-03:00",
+            "itensRespostas": [
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9377,
+                "cdItemResposta": 113986,
+                "dsItemResposta": "Alteração do colesterol ou Triglicérides",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.534-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9378,
+                "cdItemResposta": 113983,
+                "dsItemResposta": "Diabetes Mellitus",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.534-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9379,
+                "cdItemResposta": 113984,
+                "dsItemResposta": "Hipertensão arterial",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.535-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9380,
+                "cdItemResposta": 113985,
+                "dsItemResposta": "Doença cardiovascular",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.535-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9381,
+                "cdItemResposta": 113987,
+                "dsItemResposta": "Doenças pulmonares (Asma, Bronquite ou Enfisema)",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.535-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9382,
+                "cdItemResposta": 113988,
+                "dsItemResposta": "Alteração emocional - depressão, ansiedade e estresse",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.535-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9383,
+                "cdItemResposta": 113989,
+                "dsItemResposta": "Câncer de mama",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.536-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9384,
+                "cdItemResposta": 113990,
+                "dsItemResposta": "Câncer de próstata",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.536-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9385,
+                "cdItemResposta": 113991,
+                "dsItemResposta": "Câncer de intestino",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.536-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9386,
+                "cdItemResposta": 113993,
+                "dsItemResposta": "Acidente vacular cerebral (Derrame)",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.537-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104578,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9387,
+                "cdItemResposta": 114113,
+                "dsItemResposta": "Nenhuma das anteriores",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.537-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              }
+            ],
+            "tipoPergunta": {
+              "id": 2,
+              "cdTipoPergunta": 2,
+              "nmTipoPergunta": "Checkbox"
+            }
+          },
+          {
+            "id": 9401,
             "cdPergunta": 104597,
             "nmTitulo": "Qual o seu peso (kg) ?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 1,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.284-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.46-03:00",
             "itensRespostas": [
               {
-                "id": 4901,
+                "cdPerguntaDesvio": 104558,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9351,
                 "cdItemResposta": 114112,
                 "dsItemResposta": ".",
                 "vlMinimo": "20",
                 "vlMaximo": "500",
                 "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.294-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.471-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -46,23 +1007,25 @@
             }
           },
           {
-            "id": 4952,
+            "id": 9402,
             "cdPergunta": 104558,
             "nmTitulo": "Qual a sua altura (cm)?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 2,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.324-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.495-03:00",
             "itensRespostas": [
               {
-                "id": 4902,
+                "cdPerguntaDesvio": 104559,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9352,
                 "cdItemResposta": 113955,
                 "dsItemResposta": ".",
                 "vlMinimo": "50",
                 "vlMaximo": "230",
                 "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.327-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.498-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -74,23 +1037,25 @@
             }
           },
           {
-            "id": 4953,
+            "id": 9403,
             "cdPergunta": 104559,
             "nmTitulo": "Pressão arterial máxima (mmhg)",
             "dsPergunta": "É o primeiro número da aferição da pressão arterial. Costuma-se chamar de 12 por 8, mas a forma correta é 120 por 80.",
             "fgObrigatorio": false,
             "nuOrdem": 3,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.328-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.498-03:00",
             "itensRespostas": [
               {
-                "id": 4903,
+                "cdPerguntaDesvio": 104560,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9353,
                 "cdItemResposta": 113956,
                 "dsItemResposta": ".",
                 "vlMinimo": "50",
                 "vlMaximo": "250",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.33-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.501-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -102,23 +1067,25 @@
             }
           },
           {
-            "id": 4954,
+            "id": 9404,
             "cdPergunta": 104560,
             "nmTitulo": "Pressão arterial mínima (mmhg)",
             "dsPergunta": "É o segundo número da aferição da pressão arterial. A pressão arterial costuma-se chamar de 12 por 8, mas a forma correta é 120 por 80.",
             "fgObrigatorio": false,
             "nuOrdem": 4,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.331-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.502-03:00",
             "itensRespostas": [
               {
-                "id": 4904,
+                "cdPerguntaDesvio": 104561,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9354,
                 "cdItemResposta": 113957,
                 "dsItemResposta": ".",
                 "vlMinimo": "40",
                 "vlMaximo": "160",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.333-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.504-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -130,23 +1097,25 @@
             }
           },
           {
-            "id": 4955,
+            "id": 9405,
             "cdPergunta": 104561,
             "nmTitulo": "Circunferencia abdominal (cm)",
             "dsPergunta": "Como medir? Mantendo a barriga relaxada, passe uma fita métrica em torno do abdômen, na altura do umbigo.",
             "fgObrigatorio": false,
             "nuOrdem": 5,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.334-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.505-03:00",
             "itensRespostas": [
               {
-                "id": 4905,
+                "cdPerguntaDesvio": 104562,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9355,
                 "cdItemResposta": 113958,
                 "dsItemResposta": ".",
                 "vlMinimo": "30",
                 "vlMaximo": "300",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.336-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.508-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -158,56 +1127,64 @@
             }
           },
           {
-            "id": 4956,
+            "id": 9406,
             "cdPergunta": 104562,
             "nmTitulo": "Hoje, de forma geral, como você classifica a sua saúde?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 6,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.336-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.509-03:00",
             "itensRespostas": [
               {
-                "id": 4906,
+                "cdPerguntaDesvio": 104563,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9356,
                 "cdItemResposta": 113959,
                 "dsItemResposta": "Muito boa",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.338-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.512-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4907,
+                "cdPerguntaDesvio": 104563,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9357,
                 "cdItemResposta": 113960,
                 "dsItemResposta": "Boa",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.339-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.512-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4908,
+                "cdPerguntaDesvio": 104563,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9358,
                 "cdItemResposta": 113961,
                 "dsItemResposta": "Regular",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.34-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.513-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4909,
+                "cdPerguntaDesvio": 104563,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9359,
                 "cdItemResposta": 113962,
                 "dsItemResposta": "Ruim",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.34-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.513-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -219,371 +1196,194 @@
             }
           },
           {
-            "id": 4957,
+            "id": 9407,
             "cdPergunta": 104563,
             "nmTitulo": "Você  possui alguma das seguintes doenças ou condições de saúde abaixo?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 7,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.341-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.514-03:00",
             "itensRespostas": [
               {
-                "id": 4910,
-                "cdItemResposta": 113966,
-                "dsItemResposta": "Doença cardiovascular",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.343-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4911,
-                "cdItemResposta": 113964,
-                "dsItemResposta": "Diabetes Mellitus",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.344-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4912,
-                "cdItemResposta": 113965,
-                "dsItemResposta": "Hipertensão arterial",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.345-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4913,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9360,
                 "cdItemResposta": 113967,
                 "dsItemResposta": "Alteração do colesterol ou Triglicérides",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.346-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.517-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4914,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9361,
+                "cdItemResposta": 113964,
+                "dsItemResposta": "Diabetes Mellitus",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.519-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9362,
+                "cdItemResposta": 113965,
+                "dsItemResposta": "Hipertensão arterial",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": true,
+                "dtCriacao": "2018-02-28T17:30:37.519-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9363,
+                "cdItemResposta": 113966,
+                "dsItemResposta": "Doença cardiovascular",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.52-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9364,
                 "cdItemResposta": 113968,
                 "dsItemResposta": "Doenças pulmonares (Asma, Bronquite ou Enfisema)",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.346-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.52-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4915,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9365,
                 "cdItemResposta": 113969,
                 "dsItemResposta": "Alteração emocional - depressão, ansiedade e estresse",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.346-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.521-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4916,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9366,
                 "cdItemResposta": 113970,
                 "dsItemResposta": "Problemas ortopédicos (coluna, joelho entre outros) ou musculares",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.347-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.521-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4917,
-                "cdItemResposta": 113971,
-                "dsItemResposta": "Insuficiência renal crônica",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.347-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4918,
-                "cdItemResposta": 113978,
-                "dsItemResposta": "Outras",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.348-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4919,
-                "cdItemResposta": 113973,
-                "dsItemResposta": "Câncer de próstata",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.348-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4920,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9367,
                 "cdItemResposta": 113977,
                 "dsItemResposta": "Colite ulcerativa ou doença de chron",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.349-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.522-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4921,
+                "cdPerguntaDesvio": 104564,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9368,
+                "cdItemResposta": 113978,
+                "dsItemResposta": "Outras",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.523-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9369,
+                "cdItemResposta": 113971,
+                "dsItemResposta": "Insuficiência renal crônica",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.523-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9370,
+                "cdItemResposta": 113973,
+                "dsItemResposta": "Câncer de próstata",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.524-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9371,
                 "cdItemResposta": 113974,
                 "dsItemResposta": "Câncer de intestino",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.349-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.524-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4922,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9372,
                 "cdItemResposta": 113979,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.349-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.524-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4923,
+                "cdPerguntaDesvio": 104565,
+                "cdTipoAvaliacaoDesvio": 100138,
+                "id": 9373,
                 "cdItemResposta": 113976,
                 "dsItemResposta": "Acidente vascular cerebral (Derrame)",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.35-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 2,
-              "cdTipoPergunta": 2,
-              "nmTipoPergunta": "Checkbox"
-            }
-          },
-          {
-            "id": 4958,
-            "cdPergunta": 104564,
-            "nmTitulo": "Qual outra condição de saúde voce possui?",
-            "dsPergunta": "",
-            "fgObrigatorio": false,
-            "nuOrdem": 8,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.35-03:00",
-            "itensRespostas": [
-              {
-                "id": 4924,
-                "cdItemResposta": 113980,
-                "dsItemResposta": ".",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.352-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 3,
-              "cdTipoPergunta": 4,
-              "nmTipoPergunta": "Textbox"
-            }
-          },
-          {
-            "id": 4959,
-            "cdPergunta": 104565,
-            "nmTitulo": "Seus pais possuem diagnóstico ou fazem algum tratamento de saúde?",
-            "dsPergunta": "",
-            "fgObrigatorio": true,
-            "nuOrdem": 9,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.353-03:00",
-            "itensRespostas": [
-              {
-                "id": 4925,
-                "cdItemResposta": 113981,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.356-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4926,
-                "cdItemResposta": 113982,
-                "dsItemResposta": "Não",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.356-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4960,
-            "cdPergunta": 104566,
-            "nmTitulo": "Quais as doenças ou condições seus pais possuem?",
-            "dsPergunta": "",
-            "fgObrigatorio": false,
-            "nuOrdem": 10,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.357-03:00",
-            "itensRespostas": [
-              {
-                "id": 4927,
-                "cdItemResposta": 113984,
-                "dsItemResposta": "Hipertensão arterial",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.36-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4928,
-                "cdItemResposta": 113983,
-                "dsItemResposta": "Diabetes Mellitus",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.36-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4929,
-                "cdItemResposta": 113985,
-                "dsItemResposta": "Doença cardiovascular",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.36-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4930,
-                "cdItemResposta": 113986,
-                "dsItemResposta": "Alteração do colesterol ou Triglicérides",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.361-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4931,
-                "cdItemResposta": 113987,
-                "dsItemResposta": "Doenças pulmonares (Asma, Bronquite ou Enfisema)",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.361-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4932,
-                "cdItemResposta": 113988,
-                "dsItemResposta": "Alteração emocional - depressão, ansiedade e estresse",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.361-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4933,
-                "cdItemResposta": 113989,
-                "dsItemResposta": "Câncer de mama",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.362-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4934,
-                "cdItemResposta": 113990,
-                "dsItemResposta": "Câncer de próstata",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.362-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4935,
-                "cdItemResposta": 113991,
-                "dsItemResposta": "Câncer de intestino",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.362-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4936,
-                "cdItemResposta": 113993,
-                "dsItemResposta": "Acidente vacular cerebral (Derrame)",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.363-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4937,
-                "cdItemResposta": 114113,
-                "dsItemResposta": "Nenhuma das anteriores",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.363-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.525-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -598,45 +1398,49 @@
       }
     },
     {
-      "id": 5052,
+      "id": 9502,
       "cdGrupo": 2,
       "dsGrupo": "Autocuidado",
       "nuOrdem": 1,
       "fgAtivo": true,
       "tipoAvaliacao": {
-        "id": 5002,
+        "id": 9452,
         "cdTipoAvaliacao": 100141,
         "nmTipoAvaliacao": "[GAMA] Portal - Autocuidado",
         "perguntas": [
           {
-            "id": 4961,
+            "id": 9411,
             "cdPergunta": 104578,
             "nmTitulo": "Nos últimos 3 meses, você se recorda de ter passado pelo pronto socorro?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 11,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.373-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.547-03:00",
             "itensRespostas": [
               {
-                "id": 4938,
+                "cdPerguntaDesvio": 104579,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9388,
                 "cdItemResposta": 114035,
                 "dsItemResposta": "Sim",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.375-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.55-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4939,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9389,
                 "cdItemResposta": 114034,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.376-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.551-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -648,45 +1452,51 @@
             }
           },
           {
-            "id": 4962,
+            "id": 9412,
             "cdPergunta": 104579,
             "nmTitulo": "Quantas vezes você precisou passar em pronto socorro?",
             "dsPergunta": "",
             "fgObrigatorio": false,
             "nuOrdem": 12,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.377-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.552-03:00",
             "itensRespostas": [
               {
-                "id": 4940,
+                "cdPerguntaDesvio": 104580,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9390,
                 "cdItemResposta": 114036,
                 "dsItemResposta": "1 a 3 vezes",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.379-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.554-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4941,
+                "cdPerguntaDesvio": 104580,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9391,
                 "cdItemResposta": 114037,
                 "dsItemResposta": "4 a 6 vezes",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.379-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.555-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 4942,
+                "cdPerguntaDesvio": 104580,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9392,
                 "cdItemResposta": 114038,
                 "dsItemResposta": "7 ou mais",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.379-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.555-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -698,188 +1508,220 @@
             }
           },
           {
-            "id": 4963,
+            "id": 9413,
             "cdPergunta": 104580,
             "nmTitulo": "Você se lembra os principais motivos?",
             "dsPergunta": "",
             "fgObrigatorio": false,
             "nuOrdem": 13,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.38-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.556-03:00",
             "itensRespostas": [
               {
-                "id": 4943,
-                "cdItemResposta": 114039,
-                "dsItemResposta": "Problema cardiovascular",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.382-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4944,
-                "cdItemResposta": 114040,
-                "dsItemResposta": "Asma, bronquite ou enfisema",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.382-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4945,
-                "cdItemResposta": 114052,
-                "dsItemResposta": "Não lembro",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.383-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4946,
-                "cdItemResposta": 114114,
-                "dsItemResposta": "Outros problemas respiratórios",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.383-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4947,
-                "cdItemResposta": 114051,
-                "dsItemResposta": "Outros",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.383-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4948,
-                "cdItemResposta": 114048,
-                "dsItemResposta": "Alterações devido ao câncer intestino",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.384-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4949,
-                "cdItemResposta": 114041,
-                "dsItemResposta": "Problema ortopédico / muscular",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.384-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 4950,
-                "cdItemResposta": 114115,
-                "dsItemResposta": "Colite ulcerativa ou doença de chron",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.384-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5151,
-                "cdItemResposta": 114050,
-                "dsItemResposta": "Alterações devido ao câncer de próstata",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.384-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5152,
-                "cdItemResposta": 114047,
-                "dsItemResposta": "Alterações devido ao câncer mama",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.385-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5153,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9393,
                 "cdItemResposta": 114042,
                 "dsItemResposta": "Outros problemas gastrointestinal",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.386-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.558-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5154,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9394,
+                "cdItemResposta": 114039,
+                "dsItemResposta": "Problema cardiovascular",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.559-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9395,
+                "cdItemResposta": 114047,
+                "dsItemResposta": "Alterações devido ao câncer mama",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.559-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9396,
+                "cdItemResposta": 114040,
+                "dsItemResposta": "Asma, bronquite ou enfisema",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.559-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9397,
+                "cdItemResposta": 114114,
+                "dsItemResposta": "Outros problemas respiratórios",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.56-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9398,
+                "cdItemResposta": 114041,
+                "dsItemResposta": "Problema ortopédico / muscular",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.56-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9399,
+                "cdItemResposta": 114115,
+                "dsItemResposta": "Colite ulcerativa ou doença de chron",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.56-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9400,
+                "cdItemResposta": 114048,
+                "dsItemResposta": "Alterações devido ao câncer intestino",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.56-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9601,
+                "cdItemResposta": 114052,
+                "dsItemResposta": "Não lembro",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.561-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9602,
                 "cdItemResposta": 114116,
                 "dsItemResposta": "Alteração emocional - depressão, ansiedade e estresse",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.386-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.562-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5155,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9603,
                 "cdItemResposta": 114043,
                 "dsItemResposta": "Outros problemas emocionais",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.386-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.562-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5156,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9604,
+                "cdItemResposta": 114050,
+                "dsItemResposta": "Alterações devido ao câncer de próstata",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.562-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9605,
                 "cdItemResposta": 114044,
                 "dsItemResposta": "Dor crônica ou aguda",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.386-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.563-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5157,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9606,
                 "cdItemResposta": 114045,
                 "dsItemResposta": "Alterações da Hipertensão arterial",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.386-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.563-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5158,
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9607,
+                "cdItemResposta": 114051,
+                "dsItemResposta": "Outros",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.563-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9608,
                 "cdItemResposta": 114046,
                 "dsItemResposta": "Alterações do Diabetes Mellitus",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.387-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.564-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -891,34 +1733,38 @@
             }
           },
           {
-            "id": 4964,
+            "id": 9414,
             "cdPergunta": 104582,
             "nmTitulo": "Ao longo dos últimos 12 meses, você precisou ficar internado?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 14,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.387-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.564-03:00",
             "itensRespostas": [
               {
-                "id": 5159,
+                "cdPerguntaDesvio": 104583,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9609,
                 "cdItemResposta": 114054,
                 "dsItemResposta": "Sim",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.389-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.566-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5160,
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9610,
                 "cdItemResposta": 114055,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.389-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.567-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -930,45 +1776,51 @@
             }
           },
           {
-            "id": 4965,
+            "id": 9415,
             "cdPergunta": 104583,
             "nmTitulo": "Quantas vezes você esteve internado?",
             "dsPergunta": "",
             "fgObrigatorio": false,
             "nuOrdem": 15,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.39-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.567-03:00",
             "itensRespostas": [
               {
-                "id": 5161,
+                "cdPerguntaDesvio": 104584,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9611,
                 "cdItemResposta": 114056,
                 "dsItemResposta": "1 vez",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.392-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.57-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5162,
+                "cdPerguntaDesvio": 104584,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9612,
                 "cdItemResposta": 114057,
                 "dsItemResposta": "2 a 3 vezes",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.392-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.57-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5163,
+                "cdPerguntaDesvio": 104584,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9613,
                 "cdItemResposta": 114058,
                 "dsItemResposta": "4 ou mais",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.392-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.571-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -980,188 +1832,220 @@
             }
           },
           {
-            "id": 4966,
+            "id": 9416,
             "cdPergunta": 104584,
             "nmTitulo": "Você se lembra os principais motivos da sua internação?",
             "dsPergunta": "",
             "fgObrigatorio": false,
             "nuOrdem": 16,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.393-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.571-03:00",
             "itensRespostas": [
               {
-                "id": 5164,
-                "cdItemResposta": 114119,
-                "dsItemResposta": "Alteração emocional - depressão, ansiedade e estresse",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.396-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5165,
-                "cdItemResposta": 114117,
-                "dsItemResposta": "Alterações asma, Bronquite ou Enfisema",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.396-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5166,
-                "cdItemResposta": 114059,
-                "dsItemResposta": "Problema cardiovascular",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.396-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5167,
-                "cdItemResposta": 114060,
-                "dsItemResposta": "Outros problemas respiratórios",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.397-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5168,
-                "cdItemResposta": 114071,
-                "dsItemResposta": "Outros",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.397-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5169,
-                "cdItemResposta": 114061,
-                "dsItemResposta": "Problema ortopédico / muscular",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.397-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5170,
-                "cdItemResposta": 114063,
-                "dsItemResposta": "Outros problemas emocionais",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.398-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5171,
-                "cdItemResposta": 114118,
-                "dsItemResposta": "Colite ulcerativa ou doença de chron",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.398-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5172,
-                "cdItemResposta": 114062,
-                "dsItemResposta": "Outros problemas  gastrointestinais",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.398-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5173,
-                "cdItemResposta": 114064,
-                "dsItemResposta": "Dor crônica ou aguda",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.399-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5174,
-                "cdItemResposta": 114068,
-                "dsItemResposta": "Alterações devido ao câncer de intestino",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.399-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5175,
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9614,
                 "cdItemResposta": 114065,
                 "dsItemResposta": "Alterações da Hipertensão arterial",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.399-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.573-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5176,
-                "cdItemResposta": 114067,
-                "dsItemResposta": "Alterações devido ao câncer mama",
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9615,
+                "cdItemResposta": 114117,
+                "dsItemResposta": "Alterações asma, Bronquite ou Enfisema",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.399-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.573-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5177,
-                "cdItemResposta": 114070,
-                "dsItemResposta": "Alterações devido ao câncer de próstata",
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9616,
+                "cdItemResposta": 114059,
+                "dsItemResposta": "Problema cardiovascular",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.399-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.574-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5178,
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9617,
                 "cdItemResposta": 114072,
                 "dsItemResposta": "Não lembro",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.4-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.574-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5179,
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9618,
+                "cdItemResposta": 114060,
+                "dsItemResposta": "Outros problemas respiratórios",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.574-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9619,
+                "cdItemResposta": 114061,
+                "dsItemResposta": "Problema ortopédico / muscular",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.574-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9620,
+                "cdItemResposta": 114070,
+                "dsItemResposta": "Alterações devido ao câncer de próstata",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.575-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9621,
+                "cdItemResposta": 114119,
+                "dsItemResposta": "Alteração emocional - depressão, ansiedade e estresse",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.575-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9622,
+                "cdItemResposta": 114063,
+                "dsItemResposta": "Outros problemas emocionais",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.575-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9623,
+                "cdItemResposta": 114067,
+                "dsItemResposta": "Alterações devido ao câncer mama",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.575-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9624,
+                "cdItemResposta": 114068,
+                "dsItemResposta": "Alterações devido ao câncer de intestino",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.576-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104582,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9625,
+                "cdItemResposta": 114118,
+                "dsItemResposta": "Colite ulcerativa ou doença de chron",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.576-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9626,
+                "cdItemResposta": 114062,
+                "dsItemResposta": "Outros problemas  gastrointestinais",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.576-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9627,
+                "cdItemResposta": 114064,
+                "dsItemResposta": "Dor crônica ou aguda",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.576-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9628,
+                "cdItemResposta": 114071,
+                "dsItemResposta": "Outros",
+                "vlMinimo": "",
+                "vlMaximo": "",
+                "fgRespondido": false,
+                "dtCriacao": "2018-02-28T17:30:37.577-03:00",
+                "tipoAvaliacaoDesvio": null,
+                "resposta": null
+              },
+              {
+                "cdPerguntaDesvio": 104586,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9629,
                 "cdItemResposta": 114066,
                 "dsItemResposta": "Alterações do Diabetes Mellitus",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.4-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.577-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1173,45 +2057,51 @@
             }
           },
           {
-            "id": 4967,
+            "id": 9417,
             "cdPergunta": 104586,
             "nmTitulo": "Você faz acompanhamento da sua saúde e exames conforme orientação do seu médico?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 17,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.4-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.578-03:00",
             "itensRespostas": [
               {
-                "id": 5180,
+                "cdPerguntaDesvio": 104587,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9630,
                 "cdItemResposta": 114074,
                 "dsItemResposta": "Sim",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.402-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.58-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5181,
+                "cdPerguntaDesvio": 104587,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9631,
                 "cdItemResposta": 114075,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.403-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.58-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5182,
+                "cdPerguntaDesvio": 104587,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9632,
                 "cdItemResposta": 114076,
                 "dsItemResposta": "As consultas e exames faço somente quando não me sinto bem",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.403-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.58-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1223,45 +2113,51 @@
             }
           },
           {
-            "id": 4968,
+            "id": 9418,
             "cdPergunta": 104587,
             "nmTitulo": "Você faz uso de medicamento de rotina?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 18,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.403-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.581-03:00",
             "itensRespostas": [
               {
-                "id": 5183,
+                "cdPerguntaDesvio": 104588,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9633,
                 "cdItemResposta": 114077,
                 "dsItemResposta": "Sim",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.405-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.583-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5184,
+                "cdPerguntaDesvio": 104591,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9634,
                 "cdItemResposta": 114078,
                 "dsItemResposta": "Não, mas deveria usar",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.406-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.583-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5185,
+                "cdPerguntaDesvio": 104591,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9635,
                 "cdItemResposta": 114079,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.406-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.583-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1273,45 +2169,51 @@
             }
           },
           {
-            "id": 4969,
+            "id": 9419,
             "cdPergunta": 104588,
             "nmTitulo": "E segue a recomendação médica?",
             "dsPergunta": "",
             "fgObrigatorio": false,
             "nuOrdem": 19,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.406-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.584-03:00",
             "itensRespostas": [
               {
-                "id": 5186,
+                "cdPerguntaDesvio": 104591,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9636,
                 "cdItemResposta": 114080,
                 "dsItemResposta": "Sim, utilizo no horário e dosagem prescritos",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.408-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.586-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5187,
+                "cdPerguntaDesvio": 104591,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9637,
                 "cdItemResposta": 114081,
                 "dsItemResposta": "Às vezes sigo a recomendação médica",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.408-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.586-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5188,
+                "cdPerguntaDesvio": 104591,
+                "cdTipoAvaliacaoDesvio": 100141,
+                "id": 9638,
                 "cdItemResposta": 114082,
                 "dsItemResposta": "Não sigo a recomendação médica",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.409-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.586-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1323,34 +2225,38 @@
             }
           },
           {
-            "id": 4970,
+            "id": 9420,
             "cdPergunta": 104591,
             "nmTitulo": "E o dentista? Você passou em consulta nos últimos 12 meses?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 22,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.409-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.587-03:00",
             "itensRespostas": [
               {
-                "id": 5189,
+                "cdPerguntaDesvio": 104576,
+                "cdTipoAvaliacaoDesvio": 100140,
+                "id": 9639,
                 "cdItemResposta": 114087,
                 "dsItemResposta": "Sim",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.411-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.59-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5190,
+                "cdPerguntaDesvio": 104576,
+                "cdTipoAvaliacaoDesvio": 100140,
+                "id": 9640,
                 "cdItemResposta": 114088,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.411-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.59-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1365,67 +2271,75 @@
       }
     },
     {
-      "id": 5053,
+      "id": 9503,
       "cdGrupo": 2,
       "dsGrupo": "Autocuidado",
       "nuOrdem": 2,
       "fgAtivo": true,
       "tipoAvaliacao": {
-        "id": 5003,
+        "id": 9453,
         "cdTipoAvaliacao": 100140,
         "nmTipoAvaliacao": "[GAMA] Portal - Emocional",
         "perguntas": [
           {
-            "id": 4971,
+            "id": 9421,
             "cdPergunta": 104576,
             "nmTitulo": "Em relação ao seu emocional, voce se sente deprimido ou sem esperança nos últimos 15 dias?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 23,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.412-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.591-03:00",
             "itensRespostas": [
               {
-                "id": 5191,
+                "cdPerguntaDesvio": 104577,
+                "cdTipoAvaliacaoDesvio": 100140,
+                "id": 9641,
                 "cdItemResposta": 114026,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.414-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.594-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5192,
+                "cdPerguntaDesvio": 104577,
+                "cdTipoAvaliacaoDesvio": 100140,
+                "id": 9642,
                 "cdItemResposta": 114027,
                 "dsItemResposta": "Ás vezes",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.415-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.594-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5193,
+                "cdPerguntaDesvio": 104577,
+                "cdTipoAvaliacaoDesvio": 100140,
+                "id": 9643,
                 "cdItemResposta": 114028,
                 "dsItemResposta": "Quase todos os dias",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.415-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.594-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5194,
+                "cdPerguntaDesvio": 104577,
+                "cdTipoAvaliacaoDesvio": 100140,
+                "id": 9644,
                 "cdItemResposta": 114029,
                 "dsItemResposta": "Todos os dias",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.415-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.595-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1437,56 +2351,64 @@
             }
           },
           {
-            "id": 4972,
+            "id": 9422,
             "cdPergunta": 104577,
             "nmTitulo": "Tem sentido pouco interesse ou prazer nas atividades do dia-a-dia, nos últimos 15 dias?",
             "dsPergunta": "",
             "fgObrigatorio": true,
             "nuOrdem": 24,
             "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.416-03:00",
+            "dtCriacao": "2018-02-28T17:30:37.595-03:00",
             "itensRespostas": [
               {
-                "id": 5195,
+                "cdPerguntaDesvio": 104592,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9645,
                 "cdItemResposta": 114030,
                 "dsItemResposta": "Não",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.418-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.597-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5196,
+                "cdPerguntaDesvio": 104592,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9646,
                 "cdItemResposta": 114031,
                 "dsItemResposta": "Ás vezes",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.418-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.597-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5197,
+                "cdPerguntaDesvio": 104592,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9647,
                 "cdItemResposta": 114032,
                 "dsItemResposta": "Quase todos os dias",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.418-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.598-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               },
               {
-                "id": 5198,
+                "cdPerguntaDesvio": 104592,
+                "cdTipoAvaliacaoDesvio": 100142,
+                "id": 9648,
                 "cdItemResposta": 114033,
                 "dsItemResposta": "Todos os dias",
                 "vlMinimo": "",
                 "vlMaximo": "",
                 "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.418-03:00",
+                "dtCriacao": "2018-02-28T17:30:37.598-03:00",
                 "tipoAvaliacaoDesvio": null,
                 "resposta": null
               }
@@ -1495,656 +2417,6 @@
               "id": 1,
               "cdTipoPergunta": 1,
               "nmTipoPergunta": "Radio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": 5054,
-      "cdGrupo": 3,
-      "dsGrupo": "Hábitos",
-      "nuOrdem": 1,
-      "fgAtivo": true,
-      "tipoAvaliacao": {
-        "id": 5004,
-        "cdTipoAvaliacao": 100142,
-        "nmTipoAvaliacao": "[GAMA] Portal - Alimentação",
-        "perguntas": [
-          {
-            "id": 4976,
-            "cdPergunta": 104595,
-            "nmTitulo": "Você bebe pelo menos 6 a 8 copos de água diariamente?",
-            "dsPergunta": "",
-            "fgObrigatorio": true,
-            "nuOrdem": 29,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.428-03:00",
-            "itensRespostas": [
-              {
-                "id": 5205,
-                "cdItemResposta": 114095,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.43-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5206,
-                "cdItemResposta": 114096,
-                "dsItemResposta": "Não",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.43-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5207,
-                "cdItemResposta": 114097,
-                "dsItemResposta": "Restrição médica",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.43-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4973,
-            "cdPergunta": 104592,
-            "nmTitulo": "Em média, você come ao menos 5 porções de frutas e/ou folhas verdes todos os dias?",
-            "dsPergunta": "",
-            "fgObrigatorio": true,
-            "nuOrdem": 25,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.419-03:00",
-            "itensRespostas": [
-              {
-                "id": 5199,
-                "cdItemResposta": 114089,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.421-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5200,
-                "cdItemResposta": 114090,
-                "dsItemResposta": "Não",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.421-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4974,
-            "cdPergunta": 104593,
-            "nmTitulo": "Você faz pelo menos 3 refeições/dia?",
-            "dsPergunta": "",
-            "fgObrigatorio": true,
-            "nuOrdem": 26,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.422-03:00",
-            "itensRespostas": [
-              {
-                "id": 5201,
-                "cdItemResposta": 114091,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.424-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5202,
-                "cdItemResposta": 114092,
-                "dsItemResposta": "Não",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.425-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4975,
-            "cdPergunta": 104594,
-            "nmTitulo": "Você tem o hábito de acrescentar sal quando a comida está no prato?",
-            "dsPergunta": "",
-            "fgObrigatorio": true,
-            "nuOrdem": 27,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.425-03:00",
-            "itensRespostas": [
-              {
-                "id": 5203,
-                "cdItemResposta": 114093,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.427-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5204,
-                "cdItemResposta": 114094,
-                "dsItemResposta": "Não",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.427-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": 5055,
-      "cdGrupo": 3,
-      "dsGrupo": "Hábitos",
-      "nuOrdem": 2,
-      "fgAtivo": true,
-      "tipoAvaliacao": {
-        "id": 5005,
-        "cdTipoAvaliacao": 100139,
-        "nmTipoAvaliacao": "[GAMA] Portal - Hábitos",
-        "perguntas": [
-          {
-            "id": 4977,
-            "cdPergunta": 104568,
-            "nmTitulo": "Quantas vezes por semana pratica atividade física moderada por pelo menos 30min/dia?",
-            "dsPergunta": "",
-            "fgObrigatorio": true,
-            "nuOrdem": 29,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.431-03:00",
-            "itensRespostas": [
-              {
-                "id": 5208,
-                "cdItemResposta": 113997,
-                "dsItemResposta": "Nenhum",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.433-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5209,
-                "cdItemResposta": 113998,
-                "dsItemResposta": "Uma vez",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.433-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5210,
-                "cdItemResposta": 113999,
-                "dsItemResposta": "Duas vezes",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.433-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5211,
-                "cdItemResposta": 114000,
-                "dsItemResposta": "Três vezes ou mais",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.434-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5212,
-                "cdItemResposta": 114001,
-                "dsItemResposta": "Não posso fazer atividade física devido à restrição médica",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.434-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4978,
-            "cdPergunta": 104569,
-            "nmTitulo": "Durante a semana (segunda a sexta-feira), seu consumo de bebidas alcoólicas corresponde a:",
-            "dsPergunta": "Uma dose equivale a: 1 taça de vinho cheia (150 ml ou 1 copo plástico de água pequeno), 1 lata de cerveja (350 ml), 1 dose de bebida destilada (1 copinho de plástico de café) ",
-            "fgObrigatorio": true,
-            "nuOrdem": 30,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.435-03:00",
-            "itensRespostas": [
-              {
-                "id": 5213,
-                "cdItemResposta": 114002,
-                "dsItemResposta": "Não consome",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.439-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5214,
-                "cdItemResposta": 114003,
-                "dsItemResposta": "Até 5 doses/semana",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.439-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5215,
-                "cdItemResposta": 114004,
-                "dsItemResposta": "De 6 a 14 doses/semana",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.439-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5216,
-                "cdItemResposta": 114005,
-                "dsItemResposta": "15 doses ou mais",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.439-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4979,
-            "cdPergunta": 104570,
-            "nmTitulo": "No final de semana (sábado e domingo), seu consumo de bebidas alcoólicas corresponde a:",
-            "dsPergunta": "Uma dose equivale a: 1 taça de vinho cheia (150 ml ou 1 copo plástico de água pequeno), 1 lata de cerveja (350 ml), 1 dose de bebida destilada (1 copinho de plástico de café) ",
-            "fgObrigatorio": true,
-            "nuOrdem": 31,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.44-03:00",
-            "itensRespostas": [
-              {
-                "id": 5217,
-                "cdItemResposta": 114006,
-                "dsItemResposta": "Não Consumo",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.443-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5218,
-                "cdItemResposta": 114007,
-                "dsItemResposta": "Até 2 doses/final de semana",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.444-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5219,
-                "cdItemResposta": 114008,
-                "dsItemResposta": "De 3 a 5 doses/final de semana",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.444-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5220,
-                "cdItemResposta": 114009,
-                "dsItemResposta": "6 ou mais/final de semana",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.444-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4980,
-            "cdPergunta": 104571,
-            "nmTitulo": "Você fuma?",
-            "dsPergunta": "(Cigarro, Narguile, Charuto, Cachimbo entre outros)",
-            "fgObrigatorio": true,
-            "nuOrdem": 32,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.444-03:00",
-            "itensRespostas": [
-              {
-                "id": 5221,
-                "cdItemResposta": 114010,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.447-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5222,
-                "cdItemResposta": 114011,
-                "dsItemResposta": "Nunca fumei",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": true,
-                "dtCriacao": "2018-02-28T15:12:21.448-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5223,
-                "cdItemResposta": 114012,
-                "dsItemResposta": "Já parei de fumar",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.448-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4981,
-            "cdPergunta": 104572,
-            "nmTitulo": "Considerando o seu estilo de vida atual, você pensa em mudar nos próximos 6 meses?",
-            "dsPergunta": " Focar em Hábitos como atividade física, alimentação, lazer, entre outros.",
-            "fgObrigatorio": true,
-            "nuOrdem": 33,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.448-03:00",
-            "itensRespostas": [
-              {
-                "id": 5224,
-                "cdItemResposta": 114015,
-                "dsItemResposta": "Não/Talvez",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.452-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5225,
-                "cdItemResposta": 114016,
-                "dsItemResposta": "Já realizei mudanças necessárias em minha vida",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.452-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5226,
-                "cdItemResposta": 114013,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.452-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5227,
-                "cdItemResposta": 114014,
-                "dsItemResposta": "Estou tentando mudar",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.452-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4982,
-            "cdPergunta": 104573,
-            "nmTitulo": "E nos próximos 30 dias?",
-            "dsPergunta": "",
-            "fgObrigatorio": false,
-            "nuOrdem": 34,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.453-03:00",
-            "itensRespostas": [
-              {
-                "id": 5228,
-                "cdItemResposta": 114017,
-                "dsItemResposta": "Sim",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.457-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5229,
-                "cdItemResposta": 114018,
-                "dsItemResposta": "Não/Talvez",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.457-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 1,
-              "cdTipoPergunta": 1,
-              "nmTipoPergunta": "Radio"
-            }
-          },
-          {
-            "id": 4983,
-            "cdPergunta": 104574,
-            "nmTitulo": "Em qual(is) âmbito(s) você quer melhorar?",
-            "dsPergunta": "",
-            "fgObrigatorio": false,
-            "nuOrdem": 35,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.457-03:00",
-            "itensRespostas": [
-              {
-                "id": 5230,
-                "cdItemResposta": 114019,
-                "dsItemResposta": "Aumentar a atividade física",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.46-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5231,
-                "cdItemResposta": 114020,
-                "dsItemResposta": "Perder peso",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.46-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5232,
-                "cdItemResposta": 114021,
-                "dsItemResposta": "Ter uma dieta mais saudável",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.461-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5233,
-                "cdItemResposta": 114022,
-                "dsItemResposta": "Lidar melhor com o estresse",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.461-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5234,
-                "cdItemResposta": 114023,
-                "dsItemResposta": "Reduzir o uso de bebidas alcoólicas",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.461-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              },
-              {
-                "id": 5235,
-                "cdItemResposta": 114024,
-                "dsItemResposta": "Outros",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.461-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 2,
-              "cdTipoPergunta": 2,
-              "nmTipoPergunta": "Checkbox"
-            }
-          },
-          {
-            "id": 4984,
-            "cdPergunta": 104575,
-            "nmTitulo": "Quais outros hábitos?",
-            "dsPergunta": "",
-            "fgObrigatorio": false,
-            "nuOrdem": 36,
-            "fgAtivo": true,
-            "dtCriacao": "2018-02-28T15:12:21.462-03:00",
-            "itensRespostas": [
-              {
-                "id": 5236,
-                "cdItemResposta": 114025,
-                "dsItemResposta": ".",
-                "vlMinimo": "",
-                "vlMaximo": "",
-                "fgRespondido": false,
-                "dtCriacao": "2018-02-28T15:12:21.465-03:00",
-                "tipoAvaliacaoDesvio": null,
-                "resposta": null
-              }
-            ],
-            "tipoPergunta": {
-              "id": 3,
-              "cdTipoPergunta": 4,
-              "nmTipoPergunta": "Textbox"
             }
           }
         ]
