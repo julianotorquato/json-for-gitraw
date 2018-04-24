@@ -1,0 +1,52 @@
+{
+    "RiscoPreditivoFinal": {
+        "Id": 29,
+        "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+        "TipoRiscoPreditivo": "DM",
+        "NivelRiscoPreditivo": 1
+    },
+    "ListaRiscoPreditivo": [
+        {
+            "Id": 29,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": "DM",
+            "NivelRiscoPreditivo": null
+        },
+        {
+            "Id": 30,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": null,
+            "NivelRiscoPreditivo": null
+        },
+        {
+            "Id": 31,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": "HAS",
+            "NivelRiscoPreditivo": null
+        },
+        {
+            "Id": 32,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": null,
+            "NivelRiscoPreditivo": null
+        },
+        {
+            "Id": 33,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": "CV",
+            "NivelRiscoPreditivo": null
+        },
+        {
+            "Id": 34,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": null,
+            "NivelRiscoPreditivo": null
+        },
+        {
+            "Id": 35,
+            "DataCalculoRisco": "2018-04-16T20:14:32-03:00",
+            "TipoRiscoPreditivo": null,
+            "NivelRiscoPreditivo": null
+        }
+    ]
+}
