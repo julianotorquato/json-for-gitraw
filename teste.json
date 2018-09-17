@@ -1,0 +1,2090 @@
+[
+    {
+        "id": 17704,
+        "dia": {
+            "id": 24999,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 244,
+            "diaMes": 1,
+            "semanaAno": 35,
+            "nomeDia": "Sábado",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 1
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 1
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17732,
+        "dia": {
+            "id": 25000,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 245,
+            "diaMes": 2,
+            "semanaAno": 36,
+            "nomeDia": "Domingo",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 2
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17760,
+        "dia": {
+            "id": 25001,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 246,
+            "diaMes": 3,
+            "semanaAno": 36,
+            "nomeDia": "Segunda",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 3
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17788,
+        "dia": {
+            "id": 25002,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 247,
+            "diaMes": 4,
+            "semanaAno": 36,
+            "nomeDia": "Terça",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 4
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17816,
+        "dia": {
+            "id": 25003,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 248,
+            "diaMes": 5,
+            "semanaAno": 36,
+            "nomeDia": "Quarta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 5
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17844,
+        "dia": {
+            "id": 25004,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 249,
+            "diaMes": 6,
+            "semanaAno": 36,
+            "nomeDia": "Quinta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 6
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17872,
+        "dia": {
+            "id": 25005,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 250,
+            "diaMes": 7,
+            "semanaAno": 36,
+            "nomeDia": "Sexta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 7
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17900,
+        "dia": {
+            "id": 25006,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 251,
+            "diaMes": 8,
+            "semanaAno": 36,
+            "nomeDia": "Sábado",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 2
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17928,
+        "dia": {
+            "id": 25007,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 252,
+            "diaMes": 9,
+            "semanaAno": 37,
+            "nomeDia": "Domingo",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 9
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17956,
+        "dia": {
+            "id": 25008,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 253,
+            "diaMes": 10,
+            "semanaAno": 37,
+            "nomeDia": "Segunda",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 10
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17984,
+        "dia": {
+            "id": 25009,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 254,
+            "diaMes": 11,
+            "semanaAno": 37,
+            "nomeDia": "Terça",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 11
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17340,
+        "dia": {
+            "id": 25010,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 255,
+            "diaMes": 12,
+            "semanaAno": 37,
+            "nomeDia": "Quarta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 12
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 0,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17368,
+        "dia": {
+            "id": 25011,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 256,
+            "diaMes": 13,
+            "semanaAno": 37,
+            "nomeDia": "Quinta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 13
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 54000,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": true,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17396,
+        "dia": {
+            "id": 25012,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 257,
+            "diaMes": 14,
+            "semanaAno": 37,
+            "nomeDia": "Sexta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 14
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 36693,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 57504,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 14
+                        },
+                        "time": {
+                            "hour": 10,
+                            "minute": 42,
+                            "second": 21,
+                            "nano": 468000000
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 17396,
+                "ajusteBatida": {
+                    "id": 57455,
+                    "observacaoJustificativa": "1213",
+                    "tipoJustificativa": {
+                        "id": 7101,
+                        "nome": "Hora Extra",
+                        "ativo": true
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 14
+                            },
+                            "time": {
+                                "hour": 10,
+                                "minute": 42,
+                                "second": 21,
+                                "nano": 468000000
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            },
+            {
+                "id": 58151,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 14
+                        },
+                        "time": {
+                            "hour": 14,
+                            "minute": 39,
+                            "second": 9,
+                            "nano": 365000000
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "batida": {
+                    "id": 58101,
+                    "data": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 14
+                            },
+                            "time": {
+                                "hour": 14,
+                                "minute": 39,
+                                "second": 9,
+                                "nano": 365000000
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "tipo": "MANUAL",
+                    "batidaExcedida": true,
+                    "funcionarioId": 29501,
+                    "competenciaId": 51701
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 17396,
+                "ajustada": false
+            },
+            {
+                "id": 57502,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 14
+                        },
+                        "time": {
+                            "hour": 11,
+                            "minute": 33,
+                            "second": 6,
+                            "nano": 96000000
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "SAIDA",
+                "gerenciamentoPontoDiaId": 17396,
+                "ajusteBatida": {
+                    "id": 57452,
+                    "observacaoJustificativa": "111",
+                    "tipoJustificativa": {
+                        "id": 7252,
+                        "nome": "Folga",
+                        "ativo": false
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 14
+                            },
+                            "time": {
+                                "hour": 11,
+                                "minute": 33,
+                                "second": 6,
+                                "nano": 96000000
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            }
+        ]
+    },
+    {
+        "id": 17424,
+        "dia": {
+            "id": 25013,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 258,
+            "diaMes": 15,
+            "semanaAno": 37,
+            "nomeDia": "Sábado",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 15
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 3
+        },
+        "totalHoras": 43200,
+        "atestado": true,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": true,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 55856,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 15
+                        },
+                        "time": {
+                            "hour": 19,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "batida": {
+                    "id": 55806,
+                    "data": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 15
+                            },
+                            "time": {
+                                "hour": 19,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "tipo": "ABONO",
+                    "batidaExcedida": false,
+                    "funcionarioId": 29501,
+                    "competenciaId": 51701
+                },
+                "tipo": "ABONO",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 17424,
+                "ajustada": false
+            },
+            {
+                "id": 57505,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 14
+                        },
+                        "time": {
+                            "hour": 23,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 17424,
+                "ajusteBatida": {
+                    "id": 57456,
+                    "observacaoJustificativa": "666",
+                    "tipoJustificativa": {
+                        "id": 7252,
+                        "nome": "Folga",
+                        "ativo": false
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 14
+                            },
+                            "time": {
+                                "hour": 23,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            },
+            {
+                "id": 55855,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 15
+                        },
+                        "time": {
+                            "hour": 7,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "batida": {
+                    "id": 55805,
+                    "data": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 15
+                            },
+                            "time": {
+                                "hour": 7,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "tipo": "ABONO",
+                    "batidaExcedida": false,
+                    "funcionarioId": 29501,
+                    "competenciaId": 51701
+                },
+                "tipo": "ABONO",
+                "estadoBatida": "SAIDA",
+                "gerenciamentoPontoDiaId": 17424,
+                "ajustada": false
+            }
+        ]
+    },
+    {
+        "id": 17452,
+        "dia": {
+            "id": 25014,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 259,
+            "diaMes": 16,
+            "semanaAno": 38,
+            "nomeDia": "Domingo",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 16
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 7200,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 57501,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 15
+                        },
+                        "time": {
+                            "hour": 23,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "SAIDA",
+                "gerenciamentoPontoDiaId": 17452,
+                "ajusteBatida": {
+                    "id": 57451,
+                    "observacaoJustificativa": "11",
+                    "tipoJustificativa": {
+                        "id": 7101,
+                        "nome": "Hora Extra",
+                        "ativo": true
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 15
+                            },
+                            "time": {
+                                "hour": 23,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            }
+        ]
+    },
+    {
+        "id": 17480,
+        "dia": {
+            "id": 25015,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 260,
+            "diaMes": 17,
+            "semanaAno": 38,
+            "nomeDia": "Segunda",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 17
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17508,
+        "dia": {
+            "id": 25016,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 261,
+            "diaMes": 18,
+            "semanaAno": 38,
+            "nomeDia": "Terça",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 18
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17536,
+        "dia": {
+            "id": 25017,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 262,
+            "diaMes": 19,
+            "semanaAno": 38,
+            "nomeDia": "Quarta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 19
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 3599,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 57751,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 19
+                        },
+                        "time": {
+                            "hour": 20,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 17536,
+                "ajusteBatida": {
+                    "id": 57701,
+                    "observacaoJustificativa": "12312",
+                    "tipoJustificativa": {
+                        "id": 7052,
+                        "nome": "Atestado Médico",
+                        "ativo": true
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 19
+                            },
+                            "time": {
+                                "hour": 20,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            }
+        ]
+    },
+    {
+        "id": 17564,
+        "dia": {
+            "id": 25018,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 263,
+            "diaMes": 20,
+            "semanaAno": 38,
+            "nomeDia": "Quinta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17592,
+        "dia": {
+            "id": 25019,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 264,
+            "diaMes": 21,
+            "semanaAno": 38,
+            "nomeDia": "Sexta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 21
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17620,
+        "dia": {
+            "id": 25020,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 265,
+            "diaMes": 22,
+            "semanaAno": 38,
+            "nomeDia": "Sábado",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 22
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 4
+        },
+        "totalHoras": 82800,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 57752,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 22
+                        },
+                        "time": {
+                            "hour": 20,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "SAIDA",
+                "gerenciamentoPontoDiaId": 17620,
+                "ajusteBatida": {
+                    "id": 57702,
+                    "observacaoJustificativa": "444",
+                    "tipoJustificativa": {
+                        "id": 7052,
+                        "nome": "Atestado Médico",
+                        "ativo": true
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 22
+                            },
+                            "time": {
+                                "hour": 20,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            }
+        ]
+    },
+    {
+        "id": 17648,
+        "dia": {
+            "id": 25021,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 266,
+            "diaMes": 23,
+            "semanaAno": 39,
+            "nomeDia": "Domingo",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 23
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 17676,
+        "dia": {
+            "id": 25022,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 267,
+            "diaMes": 24,
+            "semanaAno": 39,
+            "nomeDia": "Segunda",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 24
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 18040,
+        "dia": {
+            "id": 25023,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 268,
+            "diaMes": 25,
+            "semanaAno": 39,
+            "nomeDia": "Terça",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 25
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 3599,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 57753,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 25
+                        },
+                        "time": {
+                            "hour": 20,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 18040,
+                "ajusteBatida": {
+                    "id": 57703,
+                    "observacaoJustificativa": "13212312",
+                    "tipoJustificativa": {
+                        "id": 7252,
+                        "nome": "Folga",
+                        "ativo": false
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 25
+                            },
+                            "time": {
+                                "hour": 20,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "aceito": false,
+                    "funcionarioId": 29501,
+                    "excluido": false
+                },
+                "ajustada": true
+            },
+            {
+                "id": 57754,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 25
+                        },
+                        "time": {
+                            "hour": 20,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "ENTRADA",
+                "gerenciamentoPontoDiaId": 18040,
+                "ajusteBatida": {
+                    "id": 57704,
+                    "observacaoJustificativa": "13212312",
+                    "tipoJustificativa": {
+                        "id": 7252,
+                        "nome": "Folga",
+                        "ativo": false
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 25
+                            },
+                            "time": {
+                                "hour": 20,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "usuarioAprovacaoId": 26402,
+                    "aceito": true,
+                    "funcionarioId": 29501,
+                    "excluido": false,
+                    "dataAprovacao": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 14
+                            },
+                            "time": {
+                                "hour": 14,
+                                "minute": 38,
+                                "second": 36,
+                                "nano": 180000000
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    }
+                },
+                "ajustada": true
+            }
+        ]
+    },
+    {
+        "id": 18068,
+        "dia": {
+            "id": 25024,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 269,
+            "diaMes": 26,
+            "semanaAno": 39,
+            "nomeDia": "Quarta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 26
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 18096,
+        "dia": {
+            "id": 25025,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 270,
+            "diaMes": 27,
+            "semanaAno": 39,
+            "nomeDia": "Quinta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 27
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 18124,
+        "dia": {
+            "id": 25026,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 271,
+            "diaMes": 28,
+            "semanaAno": 39,
+            "nomeDia": "Sexta",
+            "trimestre": 3,
+            "finalSemana": false,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 28
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 7200,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": [
+            {
+                "id": 57951,
+                "hora": {
+                    "dateTime": {
+                        "date": {
+                            "year": 2018,
+                            "month": 9,
+                            "day": 28
+                        },
+                        "time": {
+                            "hour": 23,
+                            "minute": 0,
+                            "second": 0,
+                            "nano": 0
+                        }
+                    },
+                    "offset": {
+                        "totalSeconds": -10800
+                    },
+                    "zone": {
+                        "id": "America/Sao_Paulo"
+                    }
+                },
+                "tipo": "MANUAL",
+                "estadoBatida": "SAIDA",
+                "gerenciamentoPontoDiaId": 18124,
+                "ajusteBatida": {
+                    "id": 57901,
+                    "observacaoJustificativa": "11111",
+                    "tipoJustificativa": {
+                        "id": 7252,
+                        "nome": "Folga",
+                        "ativo": false
+                    },
+                    "dataAjustada": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 28
+                            },
+                            "time": {
+                                "hour": 23,
+                                "minute": 0,
+                                "second": 0,
+                                "nano": 0
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    },
+                    "usuarioAprovacaoId": 26402,
+                    "aceito": true,
+                    "funcionarioId": 29501,
+                    "excluido": false,
+                    "dataAprovacao": {
+                        "dateTime": {
+                            "date": {
+                                "year": 2018,
+                                "month": 9,
+                                "day": 14
+                            },
+                            "time": {
+                                "hour": 14,
+                                "minute": 34,
+                                "second": 15,
+                                "nano": 455000000
+                            }
+                        },
+                        "offset": {
+                            "totalSeconds": -10800
+                        },
+                        "zone": {
+                            "id": "America/Sao_Paulo"
+                        }
+                    }
+                },
+                "ajustada": true
+            }
+        ]
+    },
+    {
+        "id": 18152,
+        "dia": {
+            "id": 25027,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 272,
+            "diaMes": 29,
+            "semanaAno": 39,
+            "nomeDia": "Sábado",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 29
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 5
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    },
+    {
+        "id": 18012,
+        "dia": {
+            "id": 25028,
+            "ano": 2018,
+            "mes": 9,
+            "diaAno": 273,
+            "diaMes": 30,
+            "semanaAno": 40,
+            "nomeDia": "Domingo",
+            "trimestre": 3,
+            "finalSemana": true,
+            "qtdDiasMes": 30,
+            "data": {
+                "dateTime": {
+                    "date": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 30
+                    },
+                    "time": {
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "nano": 0
+                    }
+                },
+                "offset": {
+                    "totalSeconds": -10800
+                },
+                "zone": {
+                    "id": "America/Sao_Paulo"
+                }
+            },
+            "semanaMes": 6
+        },
+        "totalHoras": 0,
+        "atestado": false,
+        "competenciaId": 51701,
+        "funcionarioId": 29501,
+        "pegaPlantao": false,
+        "userId": 29551,
+        "gerenciamentoPontoBatidas": []
+    }
+]
