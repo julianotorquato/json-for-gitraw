@@ -1,0 +1,25 @@
+{
+    "gabarito": {
+        "codigo": 26,
+        "resultadoDevolutivaDiretas" :[
+            { 
+                "codigo": 1,
+                "resultadoDevolutivaDiretaItens" : [
+                    {
+                        "codigo":58
+                    },
+                    {
+                        "codigo":59
+                    }
+            ]
+        }
+    ]
+},
+  "mensagens" :[
+    {
+        "codigo": "",
+        "mensagemUsuario": null,
+        "mensagemDesenvolvedor": null
+    }
+  ]
+}
