@@ -4,7 +4,7 @@
         "resultadoDevolutivaDiretas" :[
             { 
                 "codigo": 1,
-                "resultadoDevolutivaDiretaItens" : [
+                "resultadoDevolutivaDiretaItems" : [
                     {
                         "codigo":58
                     },
