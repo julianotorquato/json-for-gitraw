@@ -1,0 +1,19 @@
+{
+    "gabarito": {
+        "codigo": 26,
+        "resultadoLinhaCuidados" :[
+            { 
+                "codigo": 1,
+                "resultadoLinhaCuidadoItems" : [
+                    {
+                        "codigo":1
+                    },
+                    {
+                        "codigo":2
+                    }
+            ]
+        }
+    ]
+},
+"mensagens" :[]
+}
