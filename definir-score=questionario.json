@@ -1,0 +1,22 @@
+{
+    "gabarito": {
+        "codigo": 26,
+        "resultadoScoreItems" :[
+            { 
+                "codigoScore": 5,
+                "tipoScore": 1,
+                "codigoComplexidade": 1,
+                "codigoComplexidadeItem": 1,
+                "pontuacao":10                
+            },
+            { 
+                "codigoScore": 5,
+                "tipoScore": 1,
+                "codigoComplexidade": 2,
+                "codigoComplexidadeItem": 9,
+                "pontuacao":20                
+            }
+    ]
+},
+"mensagens" :[]
+}
