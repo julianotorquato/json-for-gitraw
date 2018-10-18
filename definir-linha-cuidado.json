@@ -13,7 +13,23 @@
                     }
             ]
         }
-    ]
+    ],
+    "resultadosLinhaCuidadoFinal": [
+        {
+            "quantidade": 10,
+            "codigoPeriodicidade": 1,
+            "codigoProcedimento": 1,        
+            "codigoHabito": 1,
+            "codigoEspecialidade": 315001
+        },
+        {
+            "quantidade": 10,
+            "codigoPeriodicidade": 1,
+            "codigoProcedimento": null,        
+            "codigoHabito": null,
+            "codigoEspecialidade": null
+        }        
+    ]    
 },
 "mensagens" :[]
 }
