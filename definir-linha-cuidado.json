@@ -23,8 +23,8 @@
             "codigoEspecialidade": 315001
         },
         {
-            "quantidade": 10,
-            "codigoPeriodicidade": 1,
+            "quantidade": 20,
+            "codigoPeriodicidade": 2,
             "codigoProcedimento": null,        
             "codigoHabito": null,
             "codigoEspecialidade": null
