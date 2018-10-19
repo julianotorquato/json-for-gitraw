@@ -80,45 +80,7 @@
           ]
         }
       ],
-      "linhaCuidadoFinal": {
-        "resultadoLinhaCuidadoItems": [
-          {
-            "id": 0,
-            "quantidade": 20,
-            "procedimentoOuHabito": "Caminhada",
-            "especialidade": null,
-            "periodicidade": "Semanal"
-          },
-          {
-            "id": 1,
-            "quantidade": 10,
-            "procedimentoOuHabito": "ANESTESIA GERAL OU CONDUTIVA PARA A REALIZACAO DE BLOQUEIO N",
-            "especialidade": "ESPECIALIDADE NAO CONFIGURADA",
-            "periodicidade": "Diário"
-          },
-          {
-            "id": 2,
-            "quantidade": 20,
-            "procedimentoOuHabito": "Caminhada",
-            "especialidade": null,
-            "periodicidade": "Semanal"
-          },
-          {
-            "id": 5,
-            "quantidade": 10,
-            "procedimentoOuHabito": "ANESTESIA GERAL OU CONDUTIVA PARA A REALIZACAO DE BLOQUEIO N",
-            "especialidade": "ESPECIALIDADE NAO CONFIGURADA",
-            "periodicidade": "Diário"
-          },
-          {
-            "id": 6,
-            "quantidade": 20,
-            "procedimentoOuHabito": null,
-            "especialidade": null,
-            "periodicidade": "Semanal"
-          }
-        ]
-      }
+      "linhaCuidadoFinal": null
     },
     "mensagens": []
   }
