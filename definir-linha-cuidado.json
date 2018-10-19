@@ -1,35 +1,124 @@
 {
-    "gabarito": {
-        "codigo": 26,
-        "resultadoLinhaCuidados" :[
-            { 
-                "codigo": 1,
-                "resultadoLinhaCuidadoItems" : [
-                    {
-                        "codigo":1
-                    },
-                    {
-                        "codigo":2
-                    }
-            ]
+    "questionario": {
+      "codigo": null,
+      "nome": "Questionário de Saúde",
+      "resultadoLinhaCuidados": [
+        {
+          "codigo": 1,
+          "nome": "Linha de Cuidado HAS",
+          "resultadoLinhaCuidadoItems": [
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "ECOCARDIOGRAMA BIDIMENSIONAL",
+              "especialidade": "CARDIOLOGIA",
+              "periodicidade": "2 anos"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "SALIVA (DOSAGEM DE SODIO E POTASSIO)",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "Anual"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "CINTOLOGRAFIA SINCRONIZADA DAS CAMERAS CARDIACAS - ESFORCO",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "5 anos"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "TSH ANTI-RECEPTOR",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "10 anos"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "US - ABDOME TOTAL (ABDOME SUPERIOR, RINS, BEXIGA, AORTA, VEIA CAVA INFERIOR E ADRENAIS)",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "10 anos"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "MICROALBUMINA URINA 12H (NOTURNA)",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "10 anos"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "COLESTEROL TOTAL",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "Anual"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "CLEARANCE DE UREIA",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "Anual"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "TRIGLICERIDIOS, DOSAGEM DE",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "Anual"
+            },
+            {
+              "id": 1,
+              "quantidade": 1,
+              "procedimentoOuHabito": "GLICOSE-6-FOSFATASE (GLICOGENOSE TIPO I)",
+              "especialidade": "CLINICA MEDICA",
+              "periodicidade": "Anual"
+            }
+          ]
         }
-    ],
-    "resultadosLinhaCuidadoFinal": [
-        {
-            "quantidade": 10,
-            "codigoPeriodicidade": 1,
-            "codigoProcedimento": 1000,        
-            "codigoHabito": 1,
-            "codigoEspecialidade": 315001
-        },
-        {
+      ],
+      "linhaCuidadoFinal": {
+        "resultadoLinhaCuidadoItems": [
+          {
+            "id": 0,
             "quantidade": 20,
-            "codigoPeriodicidade": 2,
-            "codigoProcedimento": null,        
-            "codigoHabito": null,
-            "codigoEspecialidade": null
-        }        
-    ]    
-},
-"mensagens" :[]
-}
+            "procedimentoOuHabito": "Caminhada",
+            "especialidade": null,
+            "periodicidade": "Semanal"
+          },
+          {
+            "id": 1,
+            "quantidade": 10,
+            "procedimentoOuHabito": "ANESTESIA GERAL OU CONDUTIVA PARA A REALIZACAO DE BLOQUEIO N",
+            "especialidade": "ESPECIALIDADE NAO CONFIGURADA",
+            "periodicidade": "Diário"
+          },
+          {
+            "id": 2,
+            "quantidade": 20,
+            "procedimentoOuHabito": "Caminhada",
+            "especialidade": null,
+            "periodicidade": "Semanal"
+          },
+          {
+            "id": 5,
+            "quantidade": 10,
+            "procedimentoOuHabito": "ANESTESIA GERAL OU CONDUTIVA PARA A REALIZACAO DE BLOQUEIO N",
+            "especialidade": "ESPECIALIDADE NAO CONFIGURADA",
+            "periodicidade": "Diário"
+          },
+          {
+            "id": 6,
+            "quantidade": 20,
+            "procedimentoOuHabito": null,
+            "especialidade": null,
+            "periodicidade": "Semanal"
+          }
+        ]
+      }
+    },
+    "mensagens": []
+  }
