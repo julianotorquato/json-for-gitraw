@@ -1,25 +1,28 @@
 {
     "gabarito": {
-        "codigo": 26,
+        "codigo": 15,
         "resultadoDevolutivaDiretas" :[
             { 
                 "codigo": 1,
-                "resultadoDevolutivaDiretaItems" : [
+                "resultadoDevolutivaDiretaItens" : [
                     {
-                        "codigo":58
+                        "codigo":83
                     },
                     {
-                        "codigo":59
+                        "codigo":64
                     }
+            ],
+            "resultadoComplementoDevolutivaDiretaItems":[
+                {
+                    "codigo": 2
+                }
             ]
         }
     ]
 },
-  "mensagens" :[
-    {
-        "codigo": "",
-        "mensagemUsuario": null,
-        "mensagemDesenvolvedor": null
-    }
-  ]
+"mensagens" :[
+]
 }
+
+
+
