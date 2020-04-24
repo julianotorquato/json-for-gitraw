@@ -1,0 +1,66 @@
+{
+  "content": [
+    {
+      "employee": {
+        "commissionPct": 0,
+        "department": {
+          "departmentName": "string",
+          "employees": [
+            {}
+          ],
+          "id": 0,
+          "location": {
+            "city": "string",
+            "country": {
+              "countryName": "string",
+              "id": 0,
+              "region": {
+                "id": 0,
+                "regionName": "string"
+              }
+            },
+            "id": 0,
+            "postalCode": "string",
+            "stateProvince": "string",
+            "streetAddress": "string"
+          }
+        },
+        "email": "string",
+        "firstName": "string",
+        "hireDate": "2020-04-24T17:48:49.498Z",
+        "id": 0,
+        "jobs": [
+          {}
+        ],
+        "lastName": "string",
+        "manager": {},
+        "phoneNumber": "string",
+        "salary": 0
+      },
+      "id": 0,
+      "jobTitle": "string",
+      "maxSalary": 0,
+      "minSalary": 0,
+      "tasks": [
+        {
+          "description": "string",
+          "id": 0,
+          "title": "string"
+        }
+      ]
+    }
+  ],
+  "empty": true,
+  "first": true,
+  "last": true,
+  "number": 0,
+  "numberOfElements": 0,
+  "size": 0,
+  "sort": {
+    "empty": true,
+    "sorted": true,
+    "unsorted": true
+  },
+  "totalElements": 0,
+  "totalPages": 0
+}
