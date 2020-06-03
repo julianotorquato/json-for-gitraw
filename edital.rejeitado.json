@@ -1,1 +1,28 @@
-
+{
+    "status": "200",
+    "uuid_vinculacao": "ec112f50-08d9-4e8c-8065-80cfc7c9d78e",
+    "editais_cadastrados": [
+        {
+            "id_edital": "5261",
+            "rejeitado": "nao",
+            "publicado": "nao"
+        },
+        {
+            "id_edital": "5262",
+            "rejeitado": "nao",
+            "publicado": "nao"
+        },
+        {
+            "id_edital": "5263",
+            "rejeitado": "sim",
+            "publicado": "nao",
+            "motivo_rejeicao": "O edital foi rejeitado porque a serventia não anexou a planta no link de forma adequada."
+        }
+    ],
+    "ultima_publicacao": {
+        "id_edital": "5263",
+        "rejeitado": "sim",
+        "publicado": "nao",
+        "motivo_rejeicao": "O edital foi rejeitado porque a serventia não anexou a planta no link de forma adequada."
+    }
+}
