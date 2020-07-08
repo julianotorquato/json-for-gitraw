@@ -1,0 +1,170 @@
+{
+    "scriptFlow": {
+      "50": {
+        "id": 50,
+        "order": 1,
+        "question": "Bom dia meu nome é [Seu Nome] da BIN maquininha de cartões tudo bem?",
+        "correctAnswer": 52,
+        "wrongAnswer": 56,
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 1,
+        "productGroupItemId": 50
+      },
+      "52": {
+        "id": 52,
+        "order": 2,
+        "question": "FULANO, estamos com uma excelente campanha de taxa de débito de XX % e crédito YY % Essas taxas fazem sentido pra você?",
+        "correctAnswer": 53,
+        "wrongAnswer": 57,
+        "fullDescription": "Perceba que na BIN nem chamamos de aluguel e sim combo de benefícios. Porque neste combo você terá 500 bobinas pro mês grátis , sua máquina irá habilitada para recarga de celular e você irá ganhar 3% de todos os valores . Tem suporte 24 horas e no horário comercial pelo whats . Tem nova máquina em 48 horas se a sua apresentar algum defeito e o mais importante , todas as novas tecnologias como aproximação de cartão , pulseira e celular já estão na máquina , coisa que nas máquinas compradas será um problema, pois elas não serão atualizadas, em nenhum concorrente . E, no final disso tudo ainda é possível renegociar esse valor na medida que você for melhorando o faturamento na máquina.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 1,
+        "productGroupItemId": 50
+      },
+      "53": {
+        "id": 53,
+        "order": 3,
+        "question": "Você tem interesse na proposta com esses benefícios que lhe informei?",
+        "correctAnswer": 54,
+        "wrongAnswer": 58,
+        "fullDescription": "[NOME DO CLIENTE], você prefere uma ou mais máquinas? Lembrando que além das taxas você terá muitos benefícios no nosso COMBO DE VANTAGENS como: 500 bobinas grátis por mês se precisar, basta solicitar via whats. Sua máquina irá habilitada para venda de crédito para celular onde seu retorno é de 3% de todos os créditos vendidos. Suporte horário comercial via whats e 24 horas via 0800.Troca da maquininha com defeito em 48 horas. Chip da sua máquina da operadora com melhor sinal . Não paga transferência bancária.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 1,
+        "productGroupItemId": 50
+      },
+      "54": {
+        "id": 54,
+        "order": 4,
+        "titleDescription": "[NOME DO CLIENTE], me informe os dados bancários para você receber seus pagamentos, é necessário que seja conta PJ ou seja em nome da sua empresa .",
+        "fullDescription": "Abrir modal para preencher dados.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      "55": {
+        "id": 55,
+        "order": 5,
+        "titleDescription": "A BIN a agradece e tenha um ótimo dia.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      "56": {
+        "id": 56,
+        "order": 6,
+        "titleDescription": "Pergunte quem está falando e questione se ele conhece o [NOME DO CLIENTE].",
+        "fullDescription": "[NOME DO CLIENTE], você prefere uma ou mais máquinas? Lembrando que além das taxas você terá muitos benefícios no nosso COMBO DE VANTAGENS como: 500 bobinas grátis por mês se precisar, basta solicitar via whats. Sua máquina irá habilitada para venda de crédito para celular onde seu retorno é de 3% de todos os créditos vendidos. Suporte horário comercial via whats e 24 horas via 0800.Troca da maquininha com defeito em 48 horas. Chip da sua máquina da operadora com melhor sinal . Não paga transferência bancária.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      "57": {
+        "id": 57,
+        "order": 7,
+        "titleDescription": "Agradeça e finalize a chamada com: Obrigado pela informação e tenha um bom dia (tarde), (noite).",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      "58": {
+        "id": 58,
+        "order": 8,
+        "titleDescription": "Solicite informações sobre o serviço de máquinas de cartões de crédito e faça uma oferta baseado nos itens do Passo 3",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      }
+    },
+    "scripts": [
+      {
+        "id": 50,
+        "order": 1,
+        "question": "Bom dia meu nome é [Seu Nome] da BIN maquininha de cartões tudo bem?",
+        "correctAnswer": 52,
+        "wrongAnswer": 56,
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 1,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 52,
+        "order": 2,
+        "question": "FULANO, estamos com uma excelente campanha de taxa de débito de XX % e crédito YY % Essas taxas fazem sentido pra você?",
+        "correctAnswer": 53,
+        "wrongAnswer": 57,
+        "fullDescription": "Perceba que na BIN nem chamamos de aluguel e sim combo de benefícios. Porque neste combo você terá 500 bobinas pro mês grátis , sua máquina irá habilitada para recarga de celular e você irá ganhar 3% de todos os valores . Tem suporte 24 horas e no horário comercial pelo whats . Tem nova máquina em 48 horas se a sua apresentar algum defeito e o mais importante , todas as novas tecnologias como aproximação de cartão , pulseira e celular já estão na máquina , coisa que nas máquinas compradas será um problema, pois elas não serão atualizadas, em nenhum concorrente . E, no final disso tudo ainda é possível renegociar esse valor na medida que você for melhorando o faturamento na máquina.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 1,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 53,
+        "order": 3,
+        "question": "Você tem interesse na proposta com esses benefícios que lhe informei?",
+        "correctAnswer": 54,
+        "wrongAnswer": 58,
+        "fullDescription": "[NOME DO CLIENTE], você prefere uma ou mais máquinas? Lembrando que além das taxas você terá muitos benefícios no nosso COMBO DE VANTAGENS como: 500 bobinas grátis por mês se precisar, basta solicitar via whats. Sua máquina irá habilitada para venda de crédito para celular onde seu retorno é de 3% de todos os créditos vendidos. Suporte horário comercial via whats e 24 horas via 0800.Troca da maquininha com defeito em 48 horas. Chip da sua máquina da operadora com melhor sinal . Não paga transferência bancária.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 1,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 54,
+        "order": 4,
+        "titleDescription": "[NOME DO CLIENTE], me informe os dados bancários para você receber seus pagamentos, é necessário que seja conta PJ ou seja em nome da sua empresa .",
+        "fullDescription": "Abrir modal para preencher dados.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 55,
+        "order": 5,
+        "titleDescription": "A BIN a agradece e tenha um ótimo dia.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 56,
+        "order": 6,
+        "titleDescription": "Pergunte quem está falando e questione se ele conhece o [NOME DO CLIENTE].",
+        "fullDescription": "[NOME DO CLIENTE], você prefere uma ou mais máquinas? Lembrando que além das taxas você terá muitos benefícios no nosso COMBO DE VANTAGENS como: 500 bobinas grátis por mês se precisar, basta solicitar via whats. Sua máquina irá habilitada para venda de crédito para celular onde seu retorno é de 3% de todos os créditos vendidos. Suporte horário comercial via whats e 24 horas via 0800.Troca da maquininha com defeito em 48 horas. Chip da sua máquina da operadora com melhor sinal . Não paga transferência bancária.",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 57,
+        "order": 7,
+        "titleDescription": "Agradeça e finalize a chamada com: Obrigado pela informação e tenha um bom dia (tarde), (noite).",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      },
+      {
+        "id": 58,
+        "order": 8,
+        "titleDescription": "Solicite informações sobre o serviço de máquinas de cartões de crédito e faça uma oferta baseado nos itens do Passo 3",
+        "createdDate": "2020-07-07T23:22:49.519-03:00",
+        "activated": true,
+        "scriptTypeId": 2,
+        "productGroupItemId": 50
+      }
+    ]
+  }
