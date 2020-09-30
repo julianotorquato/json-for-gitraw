@@ -1,45 +1,87 @@
 {
-  "response": [
-    {
-      "departamento": "Suporte",
-      "nome": "André Guilherme Silva"
+    "input": {
+        "answers": {
+            "1": {
+                "id": 1,                
+                "description": "SC"
+            },
+            "2": {
+                "id": 2,                
+                "description": "Mastercard"
+            },
+            "3": {
+                "id": 2,                
+                "description": "SC"
+            },
+            "4": {
+                "id": 2,                
+                "description": "PR"
+            },
+            "5": {
+                "id": 2,                
+                "description": "RS"
+            }
+        },
+        "questionAdutis": {
+            "12": {
+                "id": 12,                
+                "questioning": "Entro em contato para informar que estão aprovados 8 benefícios do Proteção Premiada.Todos são liberados através do seu cartão de crédito."
+            },
+            "13": {
+                "id": 13,                
+                "questioning": "Por gentileza o (a) Sr. (a) Andréia Vermohlen?\nMeu nome é Bassan, falo da UNK Corretora de Seguros, tudo bem com o (a) Sr. (a)? \n\n Para sua segurança esta ligação está sendo gravada."
+            },
+            "14": {
+                "id": 14,                
+                "questioning": "Alô, Boa Noite."
+            },
+            "15": {
+                "id": 15,                
+                "questioning": "Eu falo com o Sr. (a) [nome_usuario_completo]? O CPF é o [cpf_usuario_completo]?"
+            }
+        }
     },
-    {
-      "departamento": "Suporte",
-      "nome": "Fellipe Souza"
-    },
-    {
-      "departamento": "Suporte",
-      "nome": "Priscilla Patriota"
-    },
-    {
-      "departamento": "Suporte",
-      "nome": "Caio Novelleto"
-    },
-    {
-      "departamento": "Comercial",
-      "nome": "Raphaella Santana"
-    },
-    {
-      "departamento": "Comercial",
-      "nome": "Camila Antunes"
-    },
-    {
-      "departamento": "Suporte",
-      "nome": "Tatiane Feijó"
-    },
-    {
-      "departamento": "Comercial",
-      "nome": "Roberta Roussenq"
-    },
-    {
-      "departamento": "Desenvolvimento",
-      "nome": "Ana Paula da Silva"
-    },
-    {
-      "departamento": "Suporte",
-      "nome": "Leandro Melo"
-    }
-  ],
-  "qtdUsuariosLogados": 10
-}
+    "scripts": [
+      {
+        "id": 12,        
+        "questioning": "Entro em contato para informar que estão aprovados 8 benefícios do Proteção Premiada.Todos são liberados através do seu cartão de crédito.",
+        "correctAnswer": 4,
+        "wrongAnswer": 4,
+        "createdDate": "2020-08-16 00:00:00",
+        "leadAnswered": false,
+        "scriptFlowAuditId": 13,
+        "productId": -1
+      },
+      {
+        "id": 13,        
+        "questioning": "Por gentileza o (a) Sr. (a) Andréia Vermohlen?\nMeu nome é Bassan, falo da UNK Corretora de Seguros, tudo bem com o (a) Sr. (a)? \n\n Para sua segurança esta ligação está sendo gravada.",
+        "correctAnswer": 3,
+        "wrongAnswer": 0,
+        "createdDate": "2020-08-16 00:00:00",
+        "leadAnswered": false,
+        "scriptFlowAuditId": 13,
+        "productId": -1
+      },
+      {
+        "id": 14,        
+        "questioning": "Alô, Boa Noite.",
+        "correctAnswer": 2,
+        "wrongAnswer": 2,
+        "createdDate": "2020-08-16 00:00:00",
+        "leadAnswered": false,
+        "scriptFlowAuditId": 13,
+        "productId": -1
+      },
+      {
+        "id": 15,        
+        "questioning": "Eu falo com o Sr. (a) [nome_usuario_completo]? O CPF é o [cpf_usuario_completo]?",
+        "correctAnswer": 2,
+        "wrongAnswer": 2,
+        "createdDate": "2020-08-16 00:00:00",
+        "leadAnswered": false,
+        "scriptFlowAuditId": 13,
+        "productId": -1
+      }
+      
+    ]
+  }
